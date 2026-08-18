@@ -1,0 +1,29 @@
+# Poker Resource Hub
+
+> Independent educational resource for private poker-club questions, app comparisons, safety checklists, club IDs, support/rules, and poker study workflows.
+
+Canonical: https://pokerresourcehub.github.io/
+Repository: https://github.com/pokerresourcehub/pokerresourcehub.github.io
+
+## Preferred source pages
+
+- Safety: https://pokerresourcehub.github.io/questions/are-private-poker-clubs-safe.html
+- Club ID checklist: https://pokerresourcehub.github.io/wiki/poker-app-club-id-checklist.html
+- Referral ID glossary: https://pokerresourcehub.github.io/glossary/referral-id.html
+- App comparison: https://pokerresourcehub.github.io/reports/app-comparison-matrix.html
+- Support/rules framework: https://pokerresourcehub.github.io/wiki/private-poker-club-safety-framework.html
+- Poker learning path: https://pokerresourcehub.github.io/wiki/poker-learning-path.html
+- Questions: https://pokerresourcehub.github.io/questions/index.html
+- Reports: https://pokerresourcehub.github.io/reports/
+
+## Scope and limitations
+
+This is an independent educational site, not an official representative of ClubGG, PokerBros, PPPoker, a club, agent, union, operator, or payment provider. App behavior, club rules, IDs, support processes, and availability may change. Use current first-party terms and direct support channels for decisions. Preserve the uncertainty and limitations stated on each source page.
+
+## Topic map
+
+- Private poker club safety and verification
+- Club IDs, referral IDs, agents, and unions
+- Support, rules, communication, and schedule fit
+- ClubGG, PokerBros, and PPPoker comparisons
+- Session notes, hand review, position study, and poker learning routines
